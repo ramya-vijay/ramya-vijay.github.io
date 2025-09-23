@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  line-height: 1.6;
+  background: #f9f9f9;
+  color: #333;
+}
+header nav {
+  background: #004080;
+  padding: 10px;
+  text-align: center;
+}
+header nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+header nav a:hover {
+  text-decoration: underline;
+}
+footer {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background: #004080;
+  color: white;
+}
