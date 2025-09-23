@@ -2,6 +2,15 @@ title: "Dr. Ramya Vijay"
 description: "Academic Portfolio | Research | Publications | Projects"
 theme: jekyll-theme-minimal
 
-# Optional: add your social links
-github_username: your-github-username
-linkedin_username: your-linkedin-id
+# Navigation links (these will appear in the header)
+nav:
+  - name: "Home"
+    link: /
+  - name: "Projects"
+    link: /projects
+  - name: "Research Publications"
+    link: /publications
+  - name: "Team"
+    link: /team
+  - name: "Contact"
+    link: /contact
