@@ -1,3 +1,15 @@
 title: "Dr. Ramya Vijay"
-description: "Academic Website"
-theme: minima   # You can change to 'jekyll-theme-slate' or others
+description: "Academic Portfolio | Research | Publications | Projects"
+theme: jekyll-theme-minimal
+
+nav:
+  - name: "Home"
+    link: /
+  - name: "Projects"
+    link: /projects
+  - name: "Research Publications"
+    link: /publications
+  - name: "Team"
+    link: /team
+  - name: "Contact"
+    link: /contact
