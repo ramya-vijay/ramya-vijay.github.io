@@ -6,8 +6,7 @@
   <img src="/assets/profile.jpg" alt="Dr. Ramya Vijay" width="200" style="border-radius:50%;">
 </td>
  <td>
- # Contect
-   <b>📍 Address:</b> Vijay Avenue, Salai Road, Srirangam, Trichy – 620006 <br>
+  <b>📍 Address:</b> Vijay Avenue, Salai Road, Srirangam, Trichy – 620006 <br>
   <b>📧 Email:</b> <a href="mailto:ramya.vijay@outlook.com">ramya.vijay@outlook.com</a> <br>
   <b>📞 Phone:</b> +91-9655-422-172 <br><br>
   🔗 <a href="#">Google Scholar</a> | <a href="#">ResearchGate</a> | <a href="https://www.linkedin.com/in/your-linkedin-id">LinkedIn</a>
