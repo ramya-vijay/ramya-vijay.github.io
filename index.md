@@ -14,3 +14,12 @@ Explore my website to learn more about my **projects, research publications, tea
 - 🔗 [ORCID](https://orcid.org/0000-0000-0000-0000)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)  
 - 🔗 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=YOUR_SCOPUS_ID)  
+
+---
+
+## Contact
+📍 Vijay Avenue, Salai Road, Srirangam, Trichy – 620006  
+📧 [ramya.vijay@outlook.com](mailto:ramya.vijay@outlook.com)  
+📞 +91-9655-422-172  
+
+🔗 [Google Scholar](#) | [ResearchGate](#) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
