@@ -7,7 +7,7 @@
 </td>
  <td>
   <b>📍 Address:</b> Vijay Avenue, Salai Road, Srirangam, Trichy – 620006 <br>
-  <b>📧 Email:</b> <a href="mailto:ramya.vijay@outlook.com">ramya.vijay@outlook.com</a> <br>
+  <b>📧 Email:</b> <a href="mailto:ramyavijay@ece.sastra.edu">ramyavijay@ece.sastra.edu</a> <br></b> <a href="mailto:ramyavijay@ece.sastra.ac,in">ramyavijay@ece.sastra.ac.in</a> <br>
   <b>📞 Phone:</b> +91-9655-422-172 <br><br>
   🔗 <a href="#">Google Scholar</a> | <a href="#">ResearchGate</a> | <a href="https://www.linkedin.com/in/your-linkedin-id">LinkedIn</a>
 </td>
